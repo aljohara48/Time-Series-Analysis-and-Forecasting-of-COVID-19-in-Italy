@@ -1,0 +1,6 @@
+model,holdout_rmse,holdout_mae,rolling_cv_rmse,rolling_cv_mae
+ARIMA,321,317,2943,2697
+TSLM,2672,2114,3695,3310
+ETS_AAN,2065,1816,1791,1603
+ETS_AAA,3486,3307,4141,3537
+NNAR,1855,1754,2600,1100
