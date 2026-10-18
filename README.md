@@ -46,10 +46,6 @@ The report also noted that percentage-based errors can become very large when ac
 - **Evaluation:** RMSE, MAE, rolling-origin cross-validation
 - **Data source described in the report:** Our World in Data COVID-19 dataset
 
-## Data
-
-The original project used the Our World in Data COVID-19 dataset. The dataset is not included in this portfolio repository. See the [Our World in Data COVID-19 data repository](https://github.com/owid/covid-19-data) for the source.
-
 ## Academic Context
 
 DS424 — Time Series and Forecasting for Data Science, Princess Nourah bint Abdulrahman University, First Semester 2025–2026.
